@@ -1,13 +1,15 @@
 # Pandas Challange
 
-## Where to get it
+## Technology
 
 #### conda
 conda install pandas
 #### or PyPI
 pip install pandas
 
-## Heroes of Pymoli
+## Description
+
+Analyze data from  fantasy game Heroes of Pymoli.
 
 
 Final report  include the following:
